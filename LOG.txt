@@ -1,0 +1,37 @@
+ri 40
+ri 44
+ri 48
+ri 4c
+rd %08lX 464c457f
+ri 50
+wd %08lX 3ff3
+ri 54
+ri 58
+ri 5c
+rd %08lX 10102
+ri 60
+wd %08lX 3fef
+ri 64
+ri 68
+ri 6c
+rd %08lX 0
+ri 70
+wd %08lX 3feb
+ri 74
+rd %08lX 3fef
+ri 78
+ri 7c
+rd %08lX 3ff3
+ri 80
+ri 84
+ri 88
+ri 8c
+ri 90
+wd %08lX 3ff7
+ri 94
+wd %08lX 3ffb
+ri 98
+ri f4
+rd %08lX 3fdf
+ri f8
+ri fc
